@@ -1,0 +1,13 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+/nbproject/private/
+/build/
+*.properties
+*.class
+/bin/
+.settings/
+.classpath
+.project
+private.xml
+/dist/
+*.DS_Store
+
